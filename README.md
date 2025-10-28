@@ -1,29 +1,29 @@
 # Hi there, I'm Freddy Carrillo 👋
 
 ## 🚀 About Me
-I'm a **self-taught software engineer** on an ongoing journey—currently working through the [Odin Project](https://www.theodinproject.com/) curriculum. I just wrapped up the Node.js portion of my **Inventory App** (see below!), and I’m always excited to tackle new tech challenges.
+I'm a **self-taught software engineer** on an ongoing journey—currently working through the [Odin Project](https://www.theodinproject.com/) curriculum. I just wrapped up the Node.js portion of my **Members-Only** (see below!), and I’m always excited to tackle new tech challenges.
 
 My favorite part of coding? That dopamine rush when you finally solve a hair-pulling problem! My goal is to become a full stack engineer with the confidence to build anything from scratch.
 
 ## 💻 Top Skills & Tools
 - **HTML** | **CSS** | **JavaScript** | **React** | **Node.js** | **SQL**
 - Familiar with **Webpack**, **Jest**, and **Test-Driven Development (TDD)**
-- Everyday tools: **VS Code** & **Git** (I live in my terminal!)
+- Everyday tools: **VS Code** & **Git**
 
 ## 🌟 Featured Project
 
-### [Inventory App](https://github.com/freddster14/Inventory-App)
-A practical, full-stack solution for managing inventory. This project highlights my growing skills in backend development, database integration, and scalable design.
+### [Members-Only](https://github.com/freddster14/Members-Only)
+A web application built with Node.js and Express that lets users sign up, log in, and create posts with uses and timestampt, visible only to club members.
 
 > More projects:
 > - [Mini-Message-Board](https://github.com/freddster14/Mini-Message-Board)
-> - [RateMyStudySpot](https://github.com/freddster14/RateMyStudySpot)
+> - [Inventory-App](https://github.com/freddster14/Inventory-App)
 > - [Mock-Shopping-Cart](https://github.com/freddster14/Mock-Shopping-Cart)
-> - [Gif-Memory-Game](https://github.com/freddster14/Gif-Memory-Game)
+> - [CV-Application](https://github.com/freddster14/CV-Application)
 
 ## 🧠 Learning Journey
 - **Currently studying:** Odin Project (full stack path)
-- **Recent wins:** Completed Inventory App Node.js backend, learning TDD, experimenting with Webpack & Jest
+- **Recent wins:** Completed Memebers Only App Node.js backend, learning TDD, experimenting with Webpack & Jest
 - **Learning style:** Project-based, hands-on, and always up for a challenge!
 - **How I grow:** Asking questions, reading docs, and learning from the dev community
 
@@ -39,7 +39,7 @@ A practical, full-stack solution for managing inventory. This project highlights
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/freddy-carrillo-4aa963260)
 - [Personal Website](https://freddster14.github.io/HomePage/) _(needs a refresh!)_
-- [Twitter/X](https://x.com/freddster14) _(lurker, not a poster)_
+- [Twitter/X](https://x.com/freddster14)
 
 ## ⚽ Fun Facts & Hobbies
 - Sports & staying active (workout, games, pickup matches)
