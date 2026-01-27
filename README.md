@@ -12,14 +12,14 @@ My favorite part of coding? That dopamine rush when you finally solve a hair-pul
 
 ## 🌟 Featured Project
 
-### [Members-Only](https://github.com/freddster14/Members-Only)
-A web application built with Node.js and Express that lets users sign up, log in, and create posts with uses and timestampt, visible only to club members.
+### [Where-Is-Waldo](https://github.com/freddster14/Where-Is-Waldo)
+A full-stack photo tagging game based on the classic "Where's Waldo" books. Find hidden characters as fast as you can and compete on the global leaderboard.
 
 > More projects:
-> - [Mini-Message-Board](https://github.com/freddster14/Mini-Message-Board)
+> - [personal-web](https://github.com/freddster14/personal-blog)
 > - [Inventory-App](https://github.com/freddster14/Inventory-App)
-> - [Mock-Shopping-Cart](https://github.com/freddster14/Mock-Shopping-Cart)
-> - [CV-Application](https://github.com/freddster14/CV-Application)
+> - [Members-Only](https://github.com/freddster14/Members-Only)
+> - [File-Uploader](https://github.com/freddster14/File-Uploader)
 
 ## 🧠 Learning Journey
 - **Currently studying:** Odin Project (full stack path)
@@ -47,6 +47,4 @@ A web application built with Node.js and Express that lets users sign up, log in
 - Tech enthusiast—love checking out the latest releases!
 
 ---
-> _"Code is like a puzzle—there’s always a solution if you keep at it."_
-
 Thanks for stopping by! Feel free to connect or check out my projects.
