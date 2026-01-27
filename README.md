@@ -1,7 +1,7 @@
 # Hi there, I'm Freddy Carrillo 👋
 
 ## 🚀 About Me
-I'm a **self-taught software engineer** on an ongoing journey—currently working through the [Odin Project](https://www.theodinproject.com/) curriculum. I just wrapped up the Node.js portion of my **Members-Only** (see below!), and I’m always excited to tackle new tech challenges.
+I'm a **self-taught software engineer** on an ongoing journey—currently working through the [Odin Project](https://www.theodinproject.com/) curriculum.
 
 My favorite part of coding? That dopamine rush when you finally solve a hair-pulling problem! My goal is to become a full stack engineer with the confidence to build anything from scratch.
 
