@@ -11,10 +11,9 @@ My favorite part of coding? That dopamine rush when you finally solve a hair-pul
 - Everyday tools: **VS Code** & **Git**
 
 ## 🌟 Featured Project
-
-### [Where-Is-Waldo](https://github.com/freddster14/Where-Is-Waldo)
-A full-stack photo tagging game based on the classic "Where's Waldo" books. Find hidden characters as fast as you can and compete on the global leaderboard.
-
+### [Message-App](https://github.com/freddster14/Message-App
+)
+Full-stack messaging application showcasing WebSocket-based real-time communication, dual authentication strategy for cross-origin security, and cursor-based pagination
 > More projects:
 > - [personal-web](https://github.com/freddster14/personal-blog)
 > - [Inventory-App](https://github.com/freddster14/Inventory-App)
