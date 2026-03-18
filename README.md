@@ -12,7 +12,7 @@ My favorite part of coding? That dopamine rush when you finally solve a hair-pul
 
 ## 🌟 Featured Project
 ### [Message-App](https://github.com/freddster14/Message-App)
-)
+
 Full-stack messaging application showcasing WebSocket-based real-time communication, dual authentication strategy for cross-origin security, and cursor-based pagination
 > More projects:
 > - [Mock-Book](https://github.com/freddster14/Mock-Book)
