@@ -21,7 +21,7 @@ Full-stack social media application in Typescript built with two-feed architectu
 
 ## 💻 Top Skills & Tools
 - **TypeScript** | **React** | **Node.js** | **PostgreSQL** | **Prisma** | **Vercel/Render Deployment**
-- **Socket.io** | **Jest** | **CI/CD(GithubActions)** | **Test-Driven Development (TDD)**
+- **WebSocket** | **Jest** | **CI/CD(GithubActions)** | **Test-Driven Development (TDD)**
 - **Cursor** | **Git**
 
 ## 🔗 Connect With Me
